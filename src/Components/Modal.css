@@ -1,0 +1,21 @@
+.modal-background{
+  width:100vw;
+  height:100vh;
+  background: rgba(0, 0, 0, 0.75);
+  position:fixed;
+  top:0;
+  display:flex;
+  /* aligh-item:center; */
+  justify-content:center;
+}
+
+.modal-box{
+  background-color:white;
+  margin:100px ;
+  width:20%;
+  height:20%;
+  padding:50px;
+  border-radius:12px;
+  
+}
+
